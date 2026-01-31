@@ -23,6 +23,5 @@ PRIVACY_POLICY.md
 - Dart
 - Google ML Kit (on-device OCR)
 
-## Status
-Currently in Closed Testing on Google Play.
+
 
