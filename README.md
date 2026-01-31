@@ -1,16 +1,28 @@
-# app
+# Email Helper 📧
 
-A new Flutter project.
+Email Helper is a lightweight Android app built with Flutter to help users
+write better email replies quickly and confidently.
 
-## Getting Started
+## Features
+- Generate email reply ideas
+- Adjustable tone (polite ↔ casual)
+- Screenshot OCR (on-device)
+- Save drafts locally
+- Works offline
+- No account required
 
-This project is a starting point for a Flutter application.
+## Privacy
+Email Helper does not collect or share personal data.
+All content is stored locally on the device.
 
-A few resources to get you started if this is your first Flutter project:
+See full privacy policy here:
+PRIVACY_POLICY.md
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack
+- Flutter
+- Dart
+- Google ML Kit (on-device OCR)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Status
+Currently in Closed Testing on Google Play.
+
